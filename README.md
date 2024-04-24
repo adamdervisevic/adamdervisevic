@@ -4,8 +4,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamdervisevic&label=Profile%20views&color=0e75b6&style=flat" alt="adamdervisevic" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adamdervisevic" alt="adamdervisevic" /></a> </p>
-
 - 🔭 I’m currently working on [Social Media project](https://github.com/adamdervisevic/Social-Media)
 
 - 🌱 I’m currently learning **Laravel**
