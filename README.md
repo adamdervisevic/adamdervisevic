@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **adamdervisevic@yahoo.com**
 
-- 📄 Know about my experiences [https://www.canva.com/design/DAFkO2Y3-Nc/UXn3Avt-dIe0x4AoG9b13g/view](https://www.canva.com/design/DAFkO2Y3-Nc/UXn3Avt-dIe0x4AoG9b13g/view)
+- 📄 Know about my experiences [[https://www.canva.com/design/DAFkO2Y3-Nc/UXn3Avt-dIe0x4AoG9b13g/view](https://www.canva.com/design/DAFkO2Y3-Nc/UXn3Avt-dIe0x4AoG9b13g/view)](https://www.canva.com/design/DAFkO2Y3-Nc/view)
 
 - ⚡ Fun fact **I can center a div**
 
