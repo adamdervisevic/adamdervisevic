@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on [Dreamsly project](https://www.dreamsly.pro/)
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **React Native**
 
-- 👯 I’m looking to collaborate on **PHP/JS projects**
+- 👯 I’m looking to collaborate on **projects**
 
 - 📫 How to reach me **adamdervisevic@yahoo.com**
 
