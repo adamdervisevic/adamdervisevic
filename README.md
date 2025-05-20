@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Dreamsly project](https://www.dreamsly.pro/)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on **projects**
 
