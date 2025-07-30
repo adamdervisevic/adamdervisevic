@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adamdervisevic&label=Profile%20views&color=0e75b6&style=flat" alt="adamdervisevic" /> </p>
 
-- 🔭 I’m currently working on [Dreamsly project](https://www.dreamsly.pro/)
+- 🔭 I’m currently working on [...](https://www.dreamsly.pro/)
 
 - 🌱 I’m currently learning **React Native**
 
