@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adam Dervisevic</h1>
 <h3 align="center">A passionate Front-end Developer</h3>
 
-- 🔭 I’m currently working on [Sync-Zone website](https://github.com/admin-sync-zone/sync-zone-website)
+- 🔭 I’m currently working on [Sync-Zone website](https://sync-zone.com/)
 
 - 🌱 I’m currently learning **React JS**
 
